@@ -1,122 +1,45 @@
 import { MetadataRoute } from 'next';
 import { db } from '@/lib/db';
 import { categoryHierarchy, businesses, locations } from '@/lib/schema';
-import { eq, sql, isNull } from 'drizzle-orm';
+import { eq, isNull } from 'drizzle-orm';
 
+/**
+ * SEO-Optimized Sitemap Index
+ * Splits large sitemaps into multiple files for better crawling
+ * Total URLs: ~17,476
+ */
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const baseUrl = 'https://top.vellore24.com';
 
-    // Static pages
-    const staticPages: MetadataRoute.Sitemap = [
+    // Return sitemap index pointing to sub-sitemaps
+    return [
         {
-            url: baseUrl,
+            url: `${baseUrl}/sitemap/static.xml`,
             lastModified: new Date(),
-            changeFrequency: 'daily',
-            priority: 1,
         },
         {
-            url: `${baseUrl}/search`,
+            url: `${baseUrl}/sitemap/categories.xml`,
             lastModified: new Date(),
-            changeFrequency: 'daily',
-            priority: 0.9,
         },
         {
-            url: `${baseUrl}/categories`,
+            url: `${baseUrl}/sitemap/locations.xml`,
             lastModified: new Date(),
-            changeFrequency: 'daily',
-            priority: 0.9,
         },
         {
-            url: `${baseUrl}/near-me`,
+            url: `${baseUrl}/sitemap/businesses-0.xml`,
             lastModified: new Date(),
-            changeFrequency: 'daily',
-            priority: 0.9,
         },
         {
-            url: `${baseUrl}/appointments`,
+            url: `${baseUrl}/sitemap/businesses-1.xml`,
             lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 0.8,
         },
         {
-            url: `${baseUrl}/sitemap-html`,
+            url: `${baseUrl}/sitemap/businesses-2.xml`,
             lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 0.5,
         },
         {
-            url: `${baseUrl}/about`,
+            url: `${baseUrl}/sitemap/businesses-3.xml`,
             lastModified: new Date(),
-            changeFrequency: 'monthly',
-            priority: 0.8,
-        },
-        {
-            url: `${baseUrl}/contact`,
-            lastModified: new Date(),
-            changeFrequency: 'monthly',
-            priority: 0.8,
-        },
-        {
-            url: `${baseUrl}/privacy`,
-            lastModified: new Date(),
-            changeFrequency: 'yearly',
-            priority: 0.3,
-        },
-        {
-            url: `${baseUrl}/terms`,
-            lastModified: new Date(),
-            changeFrequency: 'yearly',
-            priority: 0.3,
         },
     ];
-
-
-    // Get all categories
-    const allCategories = await db
-        .select()
-        .from(categoryHierarchy);
-
-    const categoryPages: MetadataRoute.Sitemap = allCategories.map(category => ({
-        url: `${baseUrl}/near-me/${category.slug}`,
-        lastModified: new Date(),
-        changeFrequency: 'weekly',
-        priority: category.level === 0 ? 0.9 : category.level === 1 ? 0.7 : 0.6,
-    }));
-
-    // Get all locations
-    const allLocations = await db
-        .select()
-        .from(locations);
-
-    const locationPages: MetadataRoute.Sitemap = allLocations.map(location => ({
-        url: `${baseUrl}/near-me/${location.slug}`,
-        lastModified: new Date(),
-        changeFrequency: 'weekly',
-        priority: 0.8,
-    }));
-
-    // Get all businesses with location and category slugs
-    // Note: This assumes a business belongs to one location (via pincode) and one category
-    const allBusinesses = await db
-        .select({
-            slug: businesses.slug,
-            updatedAt: businesses.updatedAt,
-            locationSlug: locations.slug,
-            categorySlug: categoryHierarchy.slug,
-        })
-        .from(businesses)
-        .leftJoin(locations, eq(businesses.pincode, locations.pincode))
-        .leftJoin(categoryHierarchy, eq(businesses.category, categoryHierarchy.name));
-
-
-    const businessPages: MetadataRoute.Sitemap = allBusinesses
-        .filter(b => b.slug && b.locationSlug && b.categorySlug) // Only include if we can construct full path
-        .map(business => ({
-            url: `${baseUrl}/near-me/${business.locationSlug}/${business.categorySlug}/${business.slug}`,
-            lastModified: business.updatedAt || new Date(),
-            changeFrequency: 'weekly',
-            priority: 0.7,
-        }));
-
-    return [...staticPages, ...categoryPages, ...locationPages, ...businessPages];
 }
