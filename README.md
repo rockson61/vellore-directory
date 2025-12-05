@@ -1,36 +1,109 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Vellore Business Directory - Next.js
 
-## Getting Started
+A modern, mobile-optimized local business directory for Vellore, Tamil Nadu, built with Next.js 14, Neon Postgres, and Neon Auth.
 
-First, run the development server:
+## Features
 
-```bash
+✨ **Claymorphic UI** - Soft, tactile design with pastel colors  
+💧 **Liquid Glass Effects** - Frosted glass navigation  
+🗄️ **Neon Postgres** - Serverless database  
+🔐 **Neon Auth** - Built-in authentication  
+🛒 **Shopping Cart** - Order via WhatsApp  
+📱 **Mobile-First** - Optimized for mobile
+
+## Tech Stack
+
+- Next.js 14, Neon Postgres, Drizzle ORM
+- Neon Auth (Stack Auth), Tailwind CSS, Framer Motion
+
+## Quick Start
+
+### 1. Install Dependencies
+
+\`\`\`bash
+npm install
+\`\`\`
+
+### 2. Set Up Neon Database
+
+1. Go to [pg.new](https://pg.new) to create a Neon project
+2. Enable **Neon Auth** in the Auth page
+3. Copy environment variables to \`.env.local\`:
+
+\`\`\`bash
+# From Neon Console - Auth page
+NEXT_PUBLIC_STACK_PROJECT_ID=your_project_id
+NEXT_PUBLIC_STACK_PUBLISHABLE_CLIENT_KEY=your_publishable_key
+STACK_SECRET_SERVER_KEY=your_secret_key
+
+# From Neon Console - Dashboard
+DATABASE_URL=postgresql://user:password@host/database?sslmode=require
+\`\`\`
+
+### 3. Set Up Authentication
+
+\`\`\`bash
+npx @stackframe/init-stack@latest --no-browser
+\`\`\`
+
+### 4. Push Database Schema
+
+\`\`\`bash
+npm run db:push
+\`\`\`
+
+### 5. Migrate Data
+
+\`\`\`bash
+npm run migrate
+\`\`\`
+
+### 6. Run Development Server
+
+\`\`\`bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+\`\`\`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- \`npm run dev\` - Start development server
+- \`npm run build\` - Build for production
+- \`npm run db:push\` - Push schema to database
+- \`npm run db:studio\` - Open database GUI
+- \`npm run migrate\` - Import business data
 
-## Learn More
+## API Routes
 
-To learn more about Next.js, take a look at the following resources:
+- \`GET /api/businesses\` - List businesses (filter by category, search, pincode)
+- \`GET /api/businesses/[id]\` - Get business details
+- \`GET /api/categories\` - List categories
+- \`POST /api/orders\` - Create order (requires auth)
+- \`GET /api/orders\` - Get user orders (requires auth)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Database Schema
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**businesses**: id, name, category, address, phone, whatsapp_phone, location, rating, etc.  
+**categories**: id, name, slug, count, icon, color  
+**orders**: id, user_id, business_id, items, notes, customer_phone, status
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Deploy to Vercel:
+1. Push to GitHub
+2. Import to Vercel
+3. Add Neon integration
+4. Add environment variables
+5. Deploy!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Next Steps
+
+- Add category and business detail pages
+- Implement cart and WhatsApp flow
+- Add user profiles and order history
+- Implement search functionality
+
+## License
+
+MIT

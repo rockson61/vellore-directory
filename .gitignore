@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE
+.cursor/
+.vscode/
+.idea/
+
+# logs
+*.log
+google-maps-*.log
+
+# data files
+*.csv
+database-analysis-report.json
+
+# legacy
+/legacy/

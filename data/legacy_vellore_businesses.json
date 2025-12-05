@@ -1,0 +1,3098 @@
+[
+  {
+    "id": "ChIJL3EU1JA4rTsRsK1OmLomSfg",
+    "name": "The Vellore Kitchen",
+    "category": "Restaurants",
+    "address": "No: 1, Near Green Circle, W4GJ+228 New Bangalore Service Road, NH 46 Service Rd, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+    "phone": "089405 89405",
+    "whatsappPhone": "08940589405",
+    "location": {
+      "lat": 12.9315089,
+      "lng": 79.13627340000001
+    },
+    "rating": 4,
+    "totalRatings": 17591,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://www.thevellorekitchen.in/",
+    "openingHours": [
+      "Monday: 6:30 AM – 10:30 PM",
+      "Tuesday: 6:30 AM – 10:30 PM",
+      "Wednesday: 6:30 AM – 10:30 PM",
+      "Thursday: 6:30 AM – 10:30 PM",
+      "Friday: 6:30 AM – 10:30 PM",
+      "Saturday: 6:30 AM – 10:30 PM",
+      "Sunday: 6:30 AM – 10:30 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJZXOX2-lHrTsRlWmUaakRai8",
+    "name": "Alankar's Virundhu",
+    "category": "Restaurants",
+    "address": "57, Katpadi Main Rd, near Millineum plaza, Suthanthira Ponvizha Nagar, Thiru Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "086680 99895",
+    "whatsappPhone": "08668099895",
+    "location": {
+      "lat": 12.9537311,
+      "lng": 79.1368815
+    },
+    "rating": 4.8,
+    "totalRatings": 2414,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 11:30 AM – 10:30 PM",
+      "Tuesday: 11:30 AM – 10:30 PM",
+      "Wednesday: 11:30 AM – 10:30 PM",
+      "Thursday: 11:30 AM – 10:30 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 11:30 AM – 10:30 PM",
+      "Sunday: 11:30 AM – 10:30 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJWV3IY_dHrTsRJH_TSU97Ty8",
+    "name": "Zaitoon Restaurant, Vellore",
+    "category": "Restaurants",
+    "address": "1st floor, Selvam Square, Tiruvalam Rd, Selvam Nagar, Katpadi, Vellore, Tamil Nadu 632014, India",
+    "phone": "090871 11211",
+    "whatsappPhone": "09087111211",
+    "location": {
+      "lat": 12.9680894,
+      "lng": 79.1503738
+    },
+    "rating": 4.8,
+    "totalRatings": 9992,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://www.thezaitoon.com/",
+    "openingHours": [
+      "Monday: 11:00 AM – 11:30 PM",
+      "Tuesday: 11:00 AM – 11:30 PM",
+      "Wednesday: 11:00 AM – 11:30 PM",
+      "Thursday: 11:00 AM – 11:30 PM",
+      "Friday: 11:00 AM – 11:30 PM",
+      "Saturday: 11:00 AM – 11:30 PM",
+      "Sunday: 11:00 AM – 11:30 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJNXOhc7NHrTsRNsCdUnIYp4g",
+    "name": "Amirtha fine dining",
+    "category": "Restaurants",
+    "address": "Katpadi - Vellore Rd, Suthanthira Ponvizha Nagar, Bharathi Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "090471 39999",
+    "whatsappPhone": "09047139999",
+    "location": {
+      "lat": 12.950886,
+      "lng": 79.1367527
+    },
+    "rating": 4.5,
+    "totalRatings": 3635,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://amirthafinedining.com/",
+    "openingHours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJm72TUwA5rTsRtZhSvHi43iY",
+    "name": "Al Sultan Restaurant & Grills",
+    "category": "Restaurants",
+    "address": "No.28, AKS Complex, Arni Rd, near CMC eye hospital, Kosapet, Vellore, Tamil Nadu 632001, India",
+    "phone": "073395 12905",
+    "whatsappPhone": "07339512905",
+    "location": {
+      "lat": 12.9136161,
+      "lng": 79.13300339999999
+    },
+    "rating": 4.8,
+    "totalRatings": 834,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 12:00 – 11:30 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJNWRzGpdHrTsRG2r_mXrCLVE",
+    "name": "The Vellore Kitchen | Gandhi Nagar",
+    "category": "Restaurants",
+    "address": "Silk Mill, No: 27/4, 1st East Main Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "070920 23331",
+    "whatsappPhone": "07092023331",
+    "location": {
+      "lat": 12.9498823,
+      "lng": 79.13740489999999
+    },
+    "rating": 4,
+    "totalRatings": 2574,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://www.thevellorekitchen.dotpe.in/",
+    "openingHours": [
+      "Monday: 6:30 AM – 10:30 PM",
+      "Tuesday: 6:30 AM – 10:30 PM",
+      "Wednesday: 6:30 AM – 10:30 PM",
+      "Thursday: 6:30 AM – 10:30 PM",
+      "Friday: 6:30 AM – 10:30 PM",
+      "Saturday: 6:30 AM – 10:30 PM",
+      "Sunday: 6:30 AM – 10:30 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJBZ9Zn4s5rTsRqamTHguKEnE",
+    "name": "Kailash Parbat",
+    "category": "Restaurants",
+    "address": "C8 & C9 Phase 1, Arcot Rd, TNHB, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "074491 12244",
+    "whatsappPhone": "07449112244",
+    "location": {
+      "lat": 12.9378655,
+      "lng": 79.16534949999999
+    },
+    "rating": 4.6,
+    "totalRatings": 4263,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "http://www.kailashparbatgroup.com/",
+    "openingHours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJhZDS6cg5rTsRrX3Y1bh9MXw",
+    "name": "PNS NAKSHATRA - CLOUD NINE - ROOF TOP - MULTICUISINE RESTAURANT",
+    "category": "Restaurants",
+    "address": "171, Bengaluru - Chennai Hwy, Rangapuram, Sathuvachari, Vellore, Perumugai, Tamil Nadu 632009, India",
+    "phone": "075984 98605",
+    "whatsappPhone": "07598498605",
+    "location": {
+      "lat": 12.9408553,
+      "lng": 79.17766879999999
+    },
+    "rating": 4.6,
+    "totalRatings": 844,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://www.hotelpnsnakshatra.com/",
+    "openingHours": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJYy8Hask5rTsRxVj539Y8fEg",
+    "name": "PNS NAKSHATRA - VRINDAVAN - Veg Fine Dining in Vellore",
+    "category": "Restaurants",
+    "address": "171, Bengaluru - Chennai Hwy, Rangapuram, Sathuvachari, Vellore, Perumugai, Tamil Nadu 632009, India",
+    "phone": "075984 98603",
+    "whatsappPhone": "07598498603",
+    "location": {
+      "lat": 12.9408636,
+      "lng": 79.1776414
+    },
+    "rating": 4.7,
+    "totalRatings": 754,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "website": "https://www.hotelpnsnakshatra.com/",
+    "openingHours": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJk76VwWNHrTsRVuPDE8Bm4ww",
+    "name": "Hundreds Heritage",
+    "category": "Restaurants",
+    "address": "10, 14th East Cross Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "096550 57100",
+    "whatsappPhone": "09655057100",
+    "location": {
+      "lat": 12.950386,
+      "lng": 79.13910299999999
+    },
+    "rating": 4.1,
+    "totalRatings": 4623,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 12:00 – 3:30 PM, 7:30 – 10:30 PM",
+      "Tuesday: 12:00 – 3:30 PM, 7:30 – 10:30 PM",
+      "Wednesday: 12:00 – 3:30 PM, 7:30 – 10:30 PM",
+      "Thursday: 12:00 – 3:30 PM, 7:30 – 10:30 PM",
+      "Friday: 12:00 – 3:30 PM, 7:30 – 10:30 PM",
+      "Saturday: 12:00 – 3:30 PM, 7:30 – 10:30 PM",
+      "Sunday: 12:00 – 3:30 PM, 7:30 – 10:30 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJUeLBh6U5rTsRWV5XDPG9S2k",
+    "name": "Darling Namma Veedu",
+    "category": "Restaurants",
+    "address": "12, New Katpadi Road, Green Cir, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+    "phone": "098403 08888",
+    "whatsappPhone": "09840308888",
+    "location": {
+      "lat": 12.9316157,
+      "lng": 79.1377378
+    },
+    "rating": 4,
+    "totalRatings": 3684,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://darlingnammaveedu.com/",
+    "openingHours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJGS-dXpM4rTsRh8zmNuQ-HxI",
+    "name": "Earth Plate",
+    "category": "Restaurants",
+    "address": "144, Arcot Rd, opp. to CMC Hospital, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+    "phone": "0416 221 5073",
+    "whatsappPhone": "04162215073",
+    "location": {
+      "lat": 12.9246183,
+      "lng": 79.13817879999999
+    },
+    "rating": 4,
+    "totalRatings": 2011,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 12:00 – 3:30 PM, 7:00 – 10:30 PM",
+      "Tuesday: 12:00 – 3:30 PM, 7:00 – 11:00 PM",
+      "Wednesday: 12:00 – 3:30 PM, 7:00 – 11:00 PM",
+      "Thursday: 12:00 – 3:30 PM, 7:00 – 11:00 PM",
+      "Friday: 12:00 – 3:30 PM, 7:00 – 11:00 PM",
+      "Saturday: 12:00 – 3:30 PM, 7:00 – 11:00 PM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJOcDUunQ5rTsR4MyTNyVxw7g",
+    "name": "Darling Aaranya Rooftop Restaurant",
+    "category": "Restaurants",
+    "address": "11/8, Anna Salai, Kosapet, Vellore, Tamil Nadu 632001, India",
+    "whatsappPhone": null,
+    "location": {
+      "lat": 12.9077497,
+      "lng": 79.1320592
+    },
+    "rating": 4.4,
+    "totalRatings": 69,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "http://aaranyarooftop.streamonize.com/",
+    "openingHours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJi_xVqb85rTsR4XAlJZKUgtE",
+    "name": "\"Porshae\" Restaurant, Benzz Park",
+    "category": "Restaurants",
+    "address": "Hotel Benzz Park.4, Katpadi Road, Dharmaraja Kovil St, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+    "phone": "0416 663 3555",
+    "whatsappPhone": "04166633555",
+    "location": {
+      "lat": 12.9288735,
+      "lng": 79.1335466
+    },
+    "rating": 4.5,
+    "totalRatings": 379,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "http://www.benzzpark.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJe4advJA4rTsR6JK0dkA31Ic",
+    "name": "Saravana Bhavan",
+    "category": "Restaurants",
+    "address": "Katpadi - Vellore Rd, opp. New Bus Stand, Samuel Nagar, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+    "phone": "077089 67755",
+    "whatsappPhone": "07708967755",
+    "location": {
+      "lat": 12.9338914,
+      "lng": 79.1389793
+    },
+    "rating": 3.6,
+    "totalRatings": 6484,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://saravanabhavan.com/",
+    "openingHours": [
+      "Monday: 6:00 AM – 11:00 PM",
+      "Tuesday: 6:00 AM – 11:00 PM",
+      "Wednesday: 6:00 AM – 11:00 PM",
+      "Thursday: 6:00 AM – 11:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 6:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJfTOuhN04rTsRFHGJOnBGXQA",
+    "name": "Barbeque Nation - Vellore",
+    "category": "Restaurants",
+    "address": "1st Floor, Door No 16/1, Officers Line, Anna Salai, next to Reliance Trends, Bishop David Nagar, Kosapet, Vellore, Tamil Nadu 632001, India",
+    "phone": "080 6902 8748",
+    "whatsappPhone": "08069028748",
+    "location": {
+      "lat": 12.908926,
+      "lng": 79.131692
+    },
+    "rating": 4.1,
+    "totalRatings": 4849,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://www.barbequenation.com/restaurants/vellore/anna-salai?utm_source=GMB&utm_medium=Vellore&utm_campaign=GMB_Vellore",
+    "openingHours": [
+      "Monday: 8:00 AM – 1:00 AM",
+      "Tuesday: 8:00 AM – 1:00 AM",
+      "Wednesday: 8:00 AM – 1:00 AM",
+      "Thursday: 8:00 AM – 1:00 AM",
+      "Friday: 8:00 AM – 1:00 AM",
+      "Saturday: 8:00 AM – 1:00 AM",
+      "Sunday: 8:00 AM – 1:00 AM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJu7yWcew5rTsRtRmzfX_Zs1w",
+    "name": "Darling Aradhana veg restaurant",
+    "category": "Restaurants",
+    "address": "11/8, Anna Salai, Kosapet, Vellore, Tamil Nadu 632001, India",
+    "phone": "0416 221 3001",
+    "whatsappPhone": "04162213001",
+    "location": {
+      "lat": 12.9078069,
+      "lng": 79.1320941
+    },
+    "rating": 4.9,
+    "totalRatings": 87,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://darlingaradhanaveg.streamonize.com/home",
+    "openingHours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJa4HqL4RHrTsR6VBOBMAZ0lY",
+    "name": "Pastel Poetry",
+    "category": "Restaurants",
+    "address": "60/1, Vellore - Chittoor Rd, Suthanthira Ponvizha Nagar, Venkatraman Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "070944 81810",
+    "whatsappPhone": "07094481810",
+    "location": {
+      "lat": 12.9556429,
+      "lng": 79.13703439999999
+    },
+    "rating": 4.7,
+    "totalRatings": 824,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://www.rangalayaroyal.in/",
+    "openingHours": [
+      "Monday: 7:30 – 10:00 AM, 12:30 – 3:15 PM, 7:00 – 10:15 PM",
+      "Tuesday: 7:30 – 10:00 AM, 12:30 – 3:15 PM, 7:00 – 10:15 PM",
+      "Wednesday: 7:30 – 10:00 AM, 12:30 – 3:15 PM, 7:00 – 10:15 PM",
+      "Thursday: 7:30 – 10:00 AM, 12:30 – 3:15 PM, 7:00 – 10:15 PM",
+      "Friday: 7:30 – 10:00 AM, 12:30 – 3:15 PM, 7:00 – 10:15 PM",
+      "Saturday: 7:30 – 10:00 AM, 12:30 – 3:15 PM, 7:00 – 10:15 PM",
+      "Sunday: 7:30 – 10:00 AM, 12:30 – 3:15 PM, 7:00 – 10:15 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJAXBz-605rTsR3BfmvzKGQX4",
+    "name": "Black Bird Cafe & Restaurant",
+    "category": "Restaurants",
+    "address": "No. 84, No. 27, Sasthri Nagar, Krishna Nagar, Veerasamy Nagar, Sasthri Nagar, Sankaranpalayam, Vellore, Tamil Nadu 632001, India",
+    "phone": "097892 90974",
+    "whatsappPhone": "09789290974",
+    "location": {
+      "lat": 12.9018405,
+      "lng": 79.13412590000002
+    },
+    "rating": 4.6,
+    "totalRatings": 307,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJtbNzjcA5rTsRHMKuQVS1fT0",
+    "name": "Darling Akshaya Restaurant",
+    "category": "Restaurants",
+    "address": "11/8, Anna Salai, Kosapet, Vellore, Tamil Nadu 632001, India",
+    "phone": "0416 221 3001",
+    "whatsappPhone": "04162213001",
+    "location": {
+      "lat": 12.9078445,
+      "lng": 79.1319955
+    },
+    "rating": 4.7,
+    "totalRatings": 114,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://darlingakshayarestaurant.streamonize.com/",
+    "openingHours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJW56DiKtHrTsRn_4MVUT7t0Q",
+    "name": "Hangout cafe",
+    "category": "Cafes",
+    "address": "Katpadi, 1, 17th East Cross Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "079041 45035",
+    "whatsappPhone": "07904145035",
+    "location": {
+      "lat": 12.9568279,
+      "lng": 79.1450667
+    },
+    "rating": 4.4,
+    "totalRatings": 282,
+    "types": [
+      "cafe",
+      "electronics_store",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "website": "https://hangout-cafe-vlr.waiterio.com/",
+    "openingHours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJmbZNS-Q5rTsR02pHn-mizug",
+    "name": "Sai Suprabatham Cafe",
+    "category": "Cafes",
+    "address": "6/2, Nainiyappan St, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+    "phone": "097878 78738",
+    "whatsappPhone": "09787878738",
+    "location": {
+      "lat": 12.9326782,
+      "lng": 79.1354885
+    },
+    "rating": 4.6,
+    "totalRatings": 81,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "website": "https://saisuprabaatham.com/",
+    "openingHours": [
+      "Monday: 6:00 AM – 11:00 PM",
+      "Tuesday: 6:00 AM – 11:00 PM",
+      "Wednesday: 6:00 AM – 11:00 PM",
+      "Thursday: 6:00 AM – 11:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 6:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ7QMFO8s5rTsR7L9ksxErAQU",
+    "name": "Hangout Cafe",
+    "category": "Cafes",
+    "address": "V4FM+2GX, Bagayam, Vellore, Tamil Nadu 632002, India",
+    "phone": "079041 45035",
+    "whatsappPhone": "07904145035",
+    "location": {
+      "lat": 12.8735423,
+      "lng": 79.1337202
+    },
+    "rating": 4.1,
+    "totalRatings": 122,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 1:00 – 11:00 PM",
+      "Tuesday: 1:00 – 11:00 PM",
+      "Wednesday: 1:00 – 11:00 PM",
+      "Thursday: 1:00 – 11:00 PM",
+      "Friday: 1:00 – 11:00 PM",
+      "Saturday: 1:00 – 11:00 PM",
+      "Sunday: 1:00 – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ5bf0IuI5rTsREm7ZNwqZR2c",
+    "name": "MOJO CAFE",
+    "category": "Cafes",
+    "address": "No 20, Arni Rd, Bagayam, Vellore, Tamil Nadu 632002, India",
+    "phone": "081477 95855",
+    "whatsappPhone": "08147795855",
+    "location": {
+      "lat": 12.8735519,
+      "lng": 79.1336911
+    },
+    "rating": 4.3,
+    "totalRatings": 116,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "website": "https://www.instagram.com/_mojo_cafe/profilecard/?igsh=MTQ5eTcxaTYwcmIzZQ==",
+    "openingHours": [
+      "Monday: 11:30 AM – 11:00 PM",
+      "Tuesday: 11:30 AM – 11:00 PM",
+      "Wednesday: 11:30 AM – 11:00 PM",
+      "Thursday: 11:30 AM – 11:00 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:30 AM – 11:00 PM",
+      "Sunday: 11:30 AM – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJB5Ikz7Y5rTsRd-1M3G-w9RY",
+    "name": "Chitra coffee bar",
+    "category": "Cafes",
+    "address": "78, Arni Rd, Sainathapuram, Sankaranpalayam, Vellore, Tamil Nadu 632001, India",
+    "phone": "090907 40907",
+    "whatsappPhone": "09090740907",
+    "location": {
+      "lat": 12.8966036,
+      "lng": 79.1352571
+    },
+    "rating": 4.2,
+    "totalRatings": 211,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "http://www.chitracoffeebar.com/",
+    "openingHours": [
+      "Monday: 5:00 AM – 10:00 PM",
+      "Tuesday: 5:00 AM – 10:00 PM",
+      "Wednesday: 5:00 AM – 10:00 PM",
+      "Thursday: 5:00 AM – 10:00 PM",
+      "Friday: 5:00 AM – 10:00 PM",
+      "Saturday: 5:00 AM – 10:00 PM",
+      "Sunday: 5:00 AM – 10:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJN1iBcZc4rTsRyj7P1JOMUu0",
+    "name": "Ram's Cafe",
+    "category": "Cafes",
+    "address": "New Bridge Rd, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+    "whatsappPhone": null,
+    "location": {
+      "lat": 12.9336292,
+      "lng": 79.13564269999999
+    },
+    "rating": 4.2,
+    "totalRatings": 980,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 5:45 AM – 10:10 PM",
+      "Tuesday: 5:45 AM – 10:10 PM",
+      "Wednesday: 5:45 AM – 10:10 PM",
+      "Thursday: 5:45 AM – 10:10 PM",
+      "Friday: 5:45 AM – 10:10 PM",
+      "Saturday: 5:45 AM – 10:10 PM",
+      "Sunday: 5:45 AM – 10:10 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJKfK4IQA5rTsRHUKgldEbq-s",
+    "name": "purple moon cafe",
+    "category": "Cafes",
+    "address": "23, shop 1, Sri Maegan complex, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "099943 59792",
+    "whatsappPhone": "09994359792",
+    "location": {
+      "lat": 12.9349547,
+      "lng": 79.1541294
+    },
+    "rating": 4.6,
+    "totalRatings": 37,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJL79c0ds_rTsRTbKJcTI8V68",
+    "name": "Mysore coffee",
+    "category": "Cafes",
+    "address": "No 5 , Anpondi, near Vellore, Airport, Vellore, Tamil Nadu 632114, India",
+    "whatsappPhone": null,
+    "location": {
+      "lat": 12.9155363,
+      "lng": 79.06220510000001
+    },
+    "rating": 4,
+    "totalRatings": 814,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJA64-pjI5rTsRFGndvOE1wj0",
+    "name": "VELLORE METRO CAFE",
+    "category": "Cafes",
+    "address": "Ariyur Gandhi Rd, Kamaraj Nagar, Thorapadi, Vellore, Tamil Nadu 632002, India",
+    "phone": "086672 23318",
+    "whatsappPhone": "08667223318",
+    "location": {
+      "lat": 12.8813417,
+      "lng": 79.11032449999999
+    },
+    "rating": 4.3,
+    "totalRatings": 58,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 5:30 AM – 11:00 PM",
+      "Tuesday: 5:30 AM – 11:00 PM",
+      "Wednesday: 5:30 AM – 11:00 PM",
+      "Thursday: 5:30 AM – 11:00 PM",
+      "Friday: 5:30 AM – 11:00 PM",
+      "Saturday: 5:30 AM – 11:00 PM",
+      "Sunday: 5:00 AM – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJRRXp1b0-rTsRD-PpsyioDz0",
+    "name": "Divine Cafe - Sripuram",
+    "category": "Cafes",
+    "address": "SH 207, Thirumalaikodi, Vellore, Tamil Nadu 632055, India",
+    "phone": "090039 16842",
+    "whatsappPhone": "09003916842",
+    "location": {
+      "lat": 12.8702998,
+      "lng": 79.0897135
+    },
+    "rating": 3.8,
+    "totalRatings": 2295,
+    "types": [
+      "bakery",
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "website": "https://divinecafe.in/locations",
+    "openingHours": [
+      "Monday: 7:00 AM – 11:02 PM",
+      "Tuesday: 7:00 AM – 11:02 PM",
+      "Wednesday: 7:00 AM – 11:02 PM",
+      "Thursday: 7:00 AM – 11:02 PM",
+      "Friday: 7:00 AM – 11:02 PM",
+      "Saturday: 7:00 AM – 11:02 PM",
+      "Sunday: 7:00 AM – 11:02 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJe7cU6wM5rTsRNEHnoEKlY_Q",
+    "name": "Hundreds Tea House",
+    "category": "Cafes",
+    "address": "Ibrahim Sahib St, Kaspa, Vellore, Tamil Nadu 632001, India",
+    "phone": "090474 62100",
+    "whatsappPhone": "09047462100",
+    "location": {
+      "lat": 12.9061707,
+      "lng": 79.1263098
+    },
+    "rating": 4.4,
+    "totalRatings": 55,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "http://www.hundredstea.com/",
+    "openingHours": [
+      "Monday: 6:00 AM – 9:30 PM",
+      "Tuesday: 6:00 AM – 9:30 PM",
+      "Wednesday: 6:00 AM – 9:30 PM",
+      "Thursday: 6:00 AM – 9:30 PM",
+      "Friday: 6:00 AM – 9:30 PM",
+      "Saturday: 6:00 AM – 9:30 PM",
+      "Sunday: 8:00 AM – 9:30 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJwfg3b5I5rTsRylNj_aFnHrI",
+    "name": "Ram's Coffee",
+    "category": "Cafes",
+    "address": "Regional Transport Office Rd, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "079042 34035",
+    "whatsappPhone": "07904234035",
+    "location": {
+      "lat": 12.9352888,
+      "lng": 79.15605819999999
+    },
+    "rating": 4.1,
+    "totalRatings": 247,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 5:30 AM – 9:30 PM",
+      "Tuesday: 5:30 AM – 9:30 PM",
+      "Wednesday: 5:30 AM – 9:30 PM",
+      "Thursday: 5:30 AM – 9:30 PM",
+      "Friday: 5:30 AM – 9:30 PM",
+      "Saturday: 5:30 AM – 9:30 PM",
+      "Sunday: 5:30 AM – 9:30 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJQzfVDABHrTsRt8iqqmEvdj0",
+    "name": "Vellore coffee house",
+    "category": "Cafes",
+    "address": "Municipal Colony, Mottur, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "082208 56751",
+    "whatsappPhone": "08220856751",
+    "location": {
+      "lat": 12.9473086,
+      "lng": 79.13796119999999
+    },
+    "rating": 5,
+    "totalRatings": 11,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 6:00 AM – 9:00 PM",
+      "Tuesday: 6:00 AM – 9:00 PM",
+      "Wednesday: 6:00 AM – 9:00 PM",
+      "Thursday: 6:00 AM – 9:00 PM",
+      "Friday: 6:00 AM – 9:00 PM",
+      "Saturday: 6:00 AM – 9:00 PM",
+      "Sunday: 6:00 AM – 9:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJQQYDFcQ5rTsRA8PGuuzdg3E",
+    "name": "Divine Cafe - Vellore Fort",
+    "category": "Cafes",
+    "address": "Sarathy Maligai, Anna Salai, Balaji Nagar, Vellore, Tamil Nadu 632004, India",
+    "phone": "096003 56661",
+    "whatsappPhone": "09600356661",
+    "location": {
+      "lat": 12.9194525,
+      "lng": 79.13242629999999
+    },
+    "rating": 3.4,
+    "totalRatings": 41,
+    "types": [
+      "bakery",
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "website": "https://divinecafe.in/",
+    "openingHours": [
+      "Monday: 7:00 AM – 8:30 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 4:30 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 8:00 PM",
+      "Sunday: 7:00 AM – 8:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJnXWQyVFHrTsRVoBwbStspnI",
+    "name": "Idam Cafe",
+    "category": "Cafes",
+    "address": "opposite to RNR Esports, Vellore, Tamil Nadu 632014, India",
+    "whatsappPhone": null,
+    "location": {
+      "lat": 12.9692563,
+      "lng": 79.1538723
+    },
+    "rating": 4.4,
+    "totalRatings": 24,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJRVWuz29HrTsRk7EeoIQWFwY",
+    "name": "Chitra Coffee Bar",
+    "category": "Cafes",
+    "address": "Bus Stop, SH 9, Kumarappan Nagar, KRS Nagar, Katpadi, Vellore, Tamil Nadu 632007, India",
+    "phone": "090907 40907",
+    "whatsappPhone": "09090740907",
+    "location": {
+      "lat": 12.9762292,
+      "lng": 79.1368968
+    },
+    "rating": 4.4,
+    "totalRatings": 40,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "https://www.chitracoffeebar.com/",
+    "openingHours": [
+      "Monday: 6:00 AM – 9:00 PM",
+      "Tuesday: 6:00 AM – 9:00 PM",
+      "Wednesday: 6:00 AM – 9:00 PM",
+      "Thursday: 6:00 AM – 9:00 PM",
+      "Friday: 6:00 AM – 9:00 PM",
+      "Saturday: 6:00 AM – 9:00 PM",
+      "Sunday: 6:00 AM – 9:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJezJ3SfRHrTsRCZT7Ss_LbhY",
+    "name": "Arcadia Speciality Coffee House",
+    "category": "Cafes",
+    "address": "No 152, Rajaram Building, Chennai Salai, near VIT, Old Katpadi, Bharathi Nagar, Katpadi, Vellore, Tamil Nadu 632014, India",
+    "phone": "082485 39578",
+    "whatsappPhone": "08248539578",
+    "location": {
+      "lat": 12.9677577,
+      "lng": 79.1507908
+    },
+    "rating": 4.9,
+    "totalRatings": 15,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJcSMrci1HrTsRE7j-NSo34v8",
+    "name": "Divine Cafe Katpadi",
+    "category": "Cafes",
+    "address": "7th, 2nd Cross Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "095662 36009",
+    "whatsappPhone": "09566236009",
+    "location": {
+      "lat": 12.9571719,
+      "lng": 79.141633
+    },
+    "rating": 3.7,
+    "totalRatings": 94,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "http://www.divinecafe.in/",
+    "openingHours": [
+      "Monday: 6:00 AM – 10:30 PM",
+      "Tuesday: 6:00 AM – 10:30 PM",
+      "Wednesday: 6:00 AM – 10:30 PM",
+      "Thursday: 6:00 AM – 10:30 PM",
+      "Friday: 6:00 AM – 10:30 PM",
+      "Saturday: 6:00 AM – 10:30 PM",
+      "Sunday: 6:00 AM – 10:30 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ01WpKeg4rTsRfs5VMORzWN8",
+    "name": "Genuine Coffee Co",
+    "category": "Cafes",
+    "address": "63, Officer's Line, Kosapet, Vellore, Tamil Nadu 632001, India",
+    "phone": "094894 32757",
+    "whatsappPhone": "09489432757",
+    "location": {
+      "lat": 12.9140537,
+      "lng": 79.1325809
+    },
+    "rating": 4.7,
+    "totalRatings": 29,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 8:45 AM – 9:00 PM",
+      "Tuesday: 8:45 AM – 9:00 PM",
+      "Wednesday: 8:45 AM – 9:00 PM",
+      "Thursday: 8:45 AM – 9:00 PM",
+      "Friday: 8:45 AM – 9:00 PM",
+      "Saturday: 8:45 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJHflfky1HrTsRMHJ1o49Px1c",
+    "name": "On Board",
+    "category": "Cafes",
+    "address": "6B, 1st East Main Rd, near Cream World, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "070923 45666",
+    "whatsappPhone": "07092345666",
+    "location": {
+      "lat": 12.9476871,
+      "lng": 79.1372828
+    },
+    "rating": 4.9,
+    "totalRatings": 185,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJWw576N84rTsRETcIvW0w4Wc",
+    "name": "Vellore CMC Hospital",
+    "category": "Hospitals",
+    "address": "W4FP+Q82 Christian Medical College, IDA Scudder Rd, Vellore, Tamil Nadu 632004, India",
+    "phone": "080003 38855",
+    "whatsappPhone": "08000338855",
+    "location": {
+      "lat": 12.9243825,
+      "lng": 79.1357407
+    },
+    "rating": 3.5,
+    "totalRatings": 812,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "http://www.cmch-vellore.edu/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJYT0-fb4-rTsRO0NgD5nDDxc",
+    "name": "Sri Narayani Hospital & Research Centre",
+    "category": "Hospitals",
+    "address": "Azad Rd, Thirumalaikodi, Vellore, Tamil Nadu 632055, India",
+    "phone": "0416 220 6300",
+    "whatsappPhone": "04162206300",
+    "location": {
+      "lat": 12.8704797,
+      "lng": 79.089967
+    },
+    "rating": 4.4,
+    "totalRatings": 3071,
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "https://narayanihospital.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJmfyqepA4rTsRKO_mVGzn9IU",
+    "name": "Naruvi Hospitals",
+    "category": "Hospitals",
+    "address": "Chennai - Bengaluru Highway, 48, Collector's Office Rd, Samuel Nagar, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+    "phone": "0416 666 1111",
+    "whatsappPhone": "04166661111",
+    "location": {
+      "lat": 12.9352975,
+      "lng": 79.1412632
+    },
+    "rating": 4.5,
+    "totalRatings": 4831,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "https://www.naruvihospitals.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJu7IA3PU5rTsR38fL-A-u9eE",
+    "name": "Nalam Medical Center and Hospital",
+    "category": "Hospitals",
+    "address": "44, Arcot Road, Phase 2, Sathuvachari, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "0416 225 4461",
+    "whatsappPhone": "04162254461",
+    "location": {
+      "lat": 12.9348794,
+      "lng": 79.1537372
+    },
+    "rating": 3.5,
+    "totalRatings": 365,
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "http://www.nmch.org/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJA8zLInA4rTsR_IyCh2IlXAg",
+    "name": "Manisundaram Medical Mission Hospital",
+    "category": "Hospitals",
+    "address": "288, Phase – 1, Near More Supermarket, South Avenue Road Vallalar, Phase III, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "0416 225 6007",
+    "whatsappPhone": "04162256007",
+    "location": {
+      "lat": 12.9367028,
+      "lng": 79.1676734
+    },
+    "rating": 4.8,
+    "totalRatings": 2344,
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "http://www.mmmhospital.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJEcO5WxhHrTsRKPE7VE16KIY",
+    "name": "Indira Superspeciality Hospital",
+    "category": "Hospitals",
+    "address": "54, Katpadi Main Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "098423 24425",
+    "whatsappPhone": "09842324425",
+    "location": {
+      "lat": 12.9540577,
+      "lng": 79.1368943
+    },
+    "rating": 4.2,
+    "totalRatings": 287,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "https://indirasuperspecialityhospital.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ7xaG9IlHrTsR-epw9obVIq0",
+    "name": "Dr. Sivakumar Multi Speciality Hospital (DR.SKMH) | 24/7 Emergency | Sathuvacheri, Vellore",
+    "category": "Hospitals",
+    "address": "C-3, Arcot Rd, opp. to Collector Office, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "0416 225 3400",
+    "whatsappPhone": "04162253400",
+    "location": {
+      "lat": 12.9344135,
+      "lng": 79.152535
+    },
+    "rating": 4.6,
+    "totalRatings": 891,
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "http://drsivakumarhospital.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJW2aVsNw7rTsRy6NhhJXbJS4",
+    "name": "Vellore Government Hospital",
+    "category": "Hospitals",
+    "address": "GH Hospital, Adukkamparai, Vellore, Tamil Nadu 632011, India",
+    "whatsappPhone": null,
+    "location": {
+      "lat": 12.8456715,
+      "lng": 79.1358661
+    },
+    "rating": 3.5,
+    "totalRatings": 239,
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "spa"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJE6bk1eA4rTsRUN46GS3YX2M",
+    "name": "Varshini Hospital",
+    "category": "Hospitals",
+    "address": "78, Veppamaram St, Arni Rd, Velapadi, Vellore, Tamil Nadu 632001, India",
+    "phone": "0416 222 2108",
+    "whatsappPhone": "04162222108",
+    "location": {
+      "lat": 12.905953,
+      "lng": 79.1355468
+    },
+    "rating": 3.8,
+    "totalRatings": 154,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ7R_gy3o4rTsRzXj1roWTBrI",
+    "name": "Sri Sakthi Amma Hospital",
+    "category": "Hospitals",
+    "address": "No. 80, Phase 1, Bharathi Nagar Phase- 1, Next To K.S.T. Suresh Clinic Vallalar, Thiru Vi ka Nagar, Phase 1, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "whatsappPhone": null,
+    "location": {
+      "lat": 12.9361366,
+      "lng": 79.16437979999999
+    },
+    "rating": 3.7,
+    "totalRatings": 53,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJgwqvUHA4rTsRFS2wdhErDR8",
+    "name": "Sandhya Hospital",
+    "category": "Hospitals",
+    "address": "No.565,, Phase.I, W5Q9+C9X, Sathuvachary, Phase III, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "0416 225 3357",
+    "whatsappPhone": "04162253357",
+    "location": {
+      "lat": 12.9383188,
+      "lng": 79.1683498
+    },
+    "rating": 4.4,
+    "totalRatings": 650,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "http://sandhyahospital.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJo0l5xuk4rTsRugYlF4MePrE",
+    "name": "Sankari Hospital",
+    "category": "Hospitals",
+    "address": "No 32 GPH Road, Kosapet, Srinivasan Nagar, Vellore, Tamil Nadu 632001, India",
+    "phone": "0416 222 2667",
+    "whatsappPhone": "04162222667",
+    "location": {
+      "lat": 12.915398,
+      "lng": 79.13347
+    },
+    "rating": 2.7,
+    "totalRatings": 81,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJPy0-VpA4rTsRWcRV-V3NWdA",
+    "name": "Indira Nursing Home",
+    "category": "Hospitals",
+    "address": "452, Main Bazaar Rd, near CMC, Saidapet, Vellore, Tamil Nadu 632012, India",
+    "phone": "098423 24425",
+    "whatsappPhone": "09842324425",
+    "location": {
+      "lat": 12.9244533,
+      "lng": 79.1401831
+    },
+    "rating": 3.2,
+    "totalRatings": 163,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "http://www.indiranursinghome.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJxzKEduc4rTsR3Egkk9REBUY",
+    "name": "Dhinesh Hospitals",
+    "category": "Hospitals",
+    "address": "Arni Rd, near dinesh hospital, Kosapet, Vellore, Tamil Nadu 632001, India",
+    "phone": "0416 222 7700",
+    "whatsappPhone": "04162227700",
+    "location": {
+      "lat": 12.908636,
+      "lng": 79.1332327
+    },
+    "rating": 2.9,
+    "totalRatings": 29,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "http://www.dhineshhospitals.com/",
+    "openingHours": [
+      "Monday: 6:00 AM – 8:00 PM",
+      "Tuesday: 6:00 AM – 8:00 PM",
+      "Wednesday: 6:00 AM – 8:00 PM",
+      "Thursday: 6:00 AM – 8:00 PM",
+      "Friday: 6:00 AM – 8:00 PM",
+      "Saturday: 6:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 1:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJgeumHII5rTsR6_YV8a0DelY",
+    "name": "K V R KIDNEY & DIABETIC CENTRE",
+    "category": "Hospitals",
+    "address": "OTTERI, No 438, Tamil Nadu Civil Supply Godown, street, behind Priya Mahal, Bagayam, Vellore, Tamil Nadu 632002, India",
+    "phone": "083001 61000",
+    "whatsappPhone": "08300161000",
+    "location": {
+      "lat": 12.8847041,
+      "lng": 79.1346677
+    },
+    "rating": 4.5,
+    "totalRatings": 254,
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "http://www.kvrkidneykare.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJvdF4OMY_rTsRDDAZtAMR-10",
+    "name": "CIPACA - Sri Narayani Hospital & Research Centre - 24 Hrs Emergency & ICU Hospital",
+    "category": "Hospitals",
+    "address": "Azad Rd, Thirumalaikodi, Vellore, Tamil Nadu 632055, India",
+    "phone": "082382 38233",
+    "whatsappPhone": "08238238233",
+    "location": {
+      "lat": 12.8704696,
+      "lng": 79.0899737
+    },
+    "rating": 4.9,
+    "totalRatings": 94,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "https://www.cipaca.com/sri-narayani-hospital-and-research-centre-24hrs-emergency-hospital-in-vellore",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ90w_xZQ4rTsRuxiAjQPyE0A",
+    "name": "Christian Medical College Vellore",
+    "category": "Hospitals",
+    "address": "IDA Scudder Rd, Vellore, Tamil Nadu 632004, India",
+    "whatsappPhone": null,
+    "location": {
+      "lat": 12.9244443,
+      "lng": 79.1352769
+    },
+    "rating": 4.2,
+    "totalRatings": 15061,
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "website": "https://www.cmch-vellore.edu/",
+    "openingHours": [
+      "Monday: 8:00 AM – 4:30 PM",
+      "Tuesday: 8:00 AM – 4:30 PM",
+      "Wednesday: 8:00 AM – 4:30 PM",
+      "Thursday: 8:00 AM – 4:30 PM",
+      "Friday: 8:00 AM – 4:30 PM",
+      "Saturday: 8:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJw4Igv-k4rTsR4JMhsufP4TE",
+    "name": "ESI Hospital",
+    "category": "Hospitals",
+    "address": "Govt Pentland Hospital, W48M+7G4, Road, Kosapet, Vellore, Tamil Nadu 632001, India",
+    "phone": "0416 222 3052",
+    "whatsappPhone": "04162223052",
+    "location": {
+      "lat": 12.915633,
+      "lng": 79.13383209999999
+    },
+    "rating": 3.5,
+    "totalRatings": 37,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "http://www.esic.nic.in/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJf_-UdSo_rTsR0LIhnqWPz1Q",
+    "name": "Narayani hospital Block C Super Speciality building",
+    "category": "Hospitals",
+    "address": "V3CR+985, Thirumalaikodi, Vellore, Tamil Nadu 632055, India",
+    "whatsappPhone": null,
+    "location": {
+      "lat": 12.870895,
+      "lng": 79.0908638
+    },
+    "rating": 3.4,
+    "totalRatings": 55,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "https://narayanihospital.com/",
+    "openingHours": null,
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJkQLfOKo5rTsRx6MhWAO9Cqw",
+    "name": "Dhanya Medical centre",
+    "category": "Hospitals",
+    "address": "19, Pillaiyar Koil St, Velapadi, Vellore, Tamil Nadu 632001, India",
+    "phone": "098943 99326",
+    "whatsappPhone": "09894399326",
+    "location": {
+      "lat": 12.9040886,
+      "lng": 79.13644359999999
+    },
+    "rating": 3.9,
+    "totalRatings": 334,
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "physiotherapist",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJbRL2dgBHrTsR6_-okej56rM",
+    "name": "SRI PRIYAM SPECIALITY CLINIC",
+    "category": "Clinics",
+    "address": "Jandamara Street, opposite UZHAVAR SANDHAI, M.G.R. Nagar, Kilithampatarai, Katpadi, Vellore, Tamil Nadu 632007, India",
+    "phone": "073898 17445",
+    "whatsappPhone": "07389817445",
+    "location": {
+      "lat": 12.9737108,
+      "lng": 79.13646299999999
+    },
+    "rating": 4.9,
+    "totalRatings": 103,
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 9:00 PM",
+      "Saturday: 5:00 – 9:00 PM",
+      "Sunday: 5:00 – 9:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJN_AoiUo5rTsRri2IHPGylik",
+    "name": "Dr.prasannakumar's clinic",
+    "category": "Clinics",
+    "address": "535, 40th St, near new Amman mess, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "080720 78493",
+    "whatsappPhone": "08072078493",
+    "location": {
+      "lat": 12.934079,
+      "lng": 79.15776
+    },
+    "rating": 4.9,
+    "totalRatings": 248,
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": null,
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJx_Chis45rTsRTd_NrY9BU_Y",
+    "name": "A P Clinic Family Health Care Centre",
+    "category": "Clinics",
+    "address": "No 503, Phase - 1 17th Cross Road, Landmark :, Vallalar St, behind CSI Redeemer Church, Phase III, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "094896 85908",
+    "whatsappPhone": "09489685908",
+    "location": {
+      "lat": 12.9385296,
+      "lng": 79.1689908
+    },
+    "rating": 5,
+    "totalRatings": 64,
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 8:00 AM – 1:00 PM, 5:00 – 9:00 PM",
+      "Tuesday: 8:00 AM – 1:00 PM, 5:00 – 9:00 PM",
+      "Wednesday: 8:00 AM – 1:00 PM, 5:00 – 9:00 PM",
+      "Thursday: 8:00 AM – 1:00 PM, 5:00 – 9:00 PM",
+      "Friday: 8:00 AM – 1:00 PM, 5:00 – 9:00 PM",
+      "Saturday: 8:00 AM – 1:00 PM, 5:00 – 9:00 PM",
+      "Sunday: 8:00 AM – 1:00 PM, 5:00 – 9:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJTU_xfR85rTsRggvt038tlhc",
+    "name": "Aarogya Clinic Multi Speciality Center - Homeopathy",
+    "category": "Clinics",
+    "address": "1, Anna Nagar, East, Main Road, Sasthri Nagar, Krishna Nagar, TollGate, Vellore, Tamil Nadu 632001, India",
+    "phone": "097891 14955",
+    "whatsappPhone": "09789114955",
+    "location": {
+      "lat": 12.8986536,
+      "lng": 79.1328049
+    },
+    "rating": 4.8,
+    "totalRatings": 541,
+    "types": [
+      "drugstore",
+      "establishment",
+      "health",
+      "hospital",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "https://theaarogyaclinic.com/",
+    "openingHours": [
+      "Monday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+      "Tuesday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+      "Wednesday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+      "Thursday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+      "Friday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+      "Saturday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJMaX8fcY5rTsRD-Yni4oQaMM",
+    "name": "Sri Sakthi Amma Clinic - Vellore",
+    "category": "Clinics",
+    "address": "Thottapalayam, Vellore, Tamil Nadu 632004, India",
+    "phone": "063854 10853",
+    "whatsappPhone": "06385410853",
+    "location": {
+      "lat": 12.9297265,
+      "lng": 79.1338578
+    },
+    "rating": 4.7,
+    "totalRatings": 58,
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "http://www.snhrc.org/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJl4Vs2yE5rTsRRxNnJBNQQ5Q",
+    "name": "Shafiya clinic skin clinic vellore skin specialist vellore",
+    "category": "Clinics",
+    "address": "No.8, Ibrahim Sahib St, Kaspa, Vellore, Tamil Nadu 632001, India",
+    "phone": "099404 06367",
+    "whatsappPhone": "09940406367",
+    "location": {
+      "lat": 12.906218,
+      "lng": 79.1270163
+    },
+    "rating": 4.7,
+    "totalRatings": 104,
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": null,
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJM3GVRp05rTsRTu0Gh2NU-BE",
+    "name": "Sri Ragavendra Super Speciality Hospital",
+    "category": "Clinics",
+    "address": "No 218, Phase 1 South Service, Road, Phase 1, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "095976 49557",
+    "whatsappPhone": "09597649557",
+    "location": {
+      "lat": 12.9380439,
+      "lng": 79.166151
+    },
+    "rating": 4.7,
+    "totalRatings": 225,
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": "https://www.sriragavendrahospital.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ33gMYeA4rTsRFbqf4dUkzII",
+    "name": "Arun Hospital Ortho & Trauma Care - Sai Srishti women & Fertility clinic in Vellore",
+    "category": "Clinics",
+    "address": "No-15, Thiyagarajapuram Rd, Sasthri Nagar, Veerasamy Nagar, Vellore, Tamil Nadu 632001, India",
+    "phone": "0416 223 4217",
+    "whatsappPhone": "04162234217",
+    "location": {
+      "lat": 12.9030855,
+      "lng": 79.13343379999999
+    },
+    "rating": 4.5,
+    "totalRatings": 198,
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJvxHNuek4rTsRFw48wsk4ghE",
+    "name": "Achal Skin Clinic",
+    "category": "Clinics",
+    "address": "No 36, GPH Road, Srinivasan Nagar, Vellore, Tamil Nadu 632001, India",
+    "phone": "0416 222 4999",
+    "whatsappPhone": "04162224999",
+    "location": {
+      "lat": 12.9153878,
+      "lng": 79.1339225
+    },
+    "rating": 4.1,
+    "totalRatings": 73,
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 10:00 AM – 1:00 PM, 6:00 – 8:00 PM",
+      "Tuesday: 10:00 AM – 1:00 PM, 6:00 – 8:00 PM",
+      "Wednesday: 10:00 AM – 1:00 PM, 6:00 – 8:00 PM",
+      "Thursday: Closed",
+      "Friday: 10:00 AM – 1:00 PM, 6:00 – 8:00 PM",
+      "Saturday: 10:00 AM – 1:00 PM, 6:00 – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJheyJMJU4rTsRKFINcn3JQj8",
+    "name": "R R PHARMACY",
+    "category": "Pharmacies",
+    "address": "54/86A, Dr, IDA Scudder Rd, opp. Cmc Hospital, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+    "phone": "098942 15768",
+    "whatsappPhone": "09894215768",
+    "location": {
+      "lat": 12.9237976,
+      "lng": 79.13420529999999
+    },
+    "rating": 4.9,
+    "totalRatings": 39,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJW7uzd29HrTsRH0FPfJTXs8Q",
+    "name": "Sri Suki Pharmacy - Katpadi",
+    "category": "Pharmacies",
+    "address": "6, Ground Floor, 4th East Main Road, Gandhi Nagar, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "073583 87147",
+    "whatsappPhone": "07358387147",
+    "location": {
+      "lat": 12.9583603,
+      "lng": 79.1406248
+    },
+    "rating": 3.8,
+    "totalRatings": 68,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "https://srisukipharma.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJw-8m7ZU4rTsRnwMBfYFCDn0",
+    "name": "Apollo Pharmacy Dr. Ida Scudder Road",
+    "category": "Pharmacies",
+    "address": "73, IDA Scudder Rd, near Hotel Arthy, Beripettai, Vellore, Tamil Nadu 632004, India",
+    "phone": "079 4747 9139",
+    "whatsappPhone": "07947479139",
+    "location": {
+      "lat": 12.9259953,
+      "lng": 79.1333988
+    },
+    "rating": 3.3,
+    "totalRatings": 35,
+    "types": [
+      "drugstore",
+      "establishment",
+      "food",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "https://www.apollopharmacy.in/?utm_source=gmb&utm_medium=organic&utm_campaign=sulekhapromanage-apollo-pharmacy",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJhxTS5Q85rTsRuktMwLH9KDg",
+    "name": "Main Pharmacy, CMC vellore",
+    "category": "Pharmacies",
+    "address": "W4GM+5RV, Vellore, Tamil Nadu 632004, India",
+    "whatsappPhone": null,
+    "location": {
+      "lat": 12.9254962,
+      "lng": 79.13455689999999
+    },
+    "rating": 4.1,
+    "totalRatings": 9,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ3bZGxoc5rTsRie0YJzj0DtU",
+    "name": "Sri Suki Pharma - Green Circle",
+    "category": "Pharmacies",
+    "address": "Green Cir, near Namma veedu, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+    "phone": "063857 70854",
+    "whatsappPhone": "06385770854",
+    "location": {
+      "lat": 12.9318166,
+      "lng": 79.1380985
+    },
+    "rating": 4.3,
+    "totalRatings": 55,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "https://srisukipharma.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJicxkuro5rTsR2HrByWwMgZw",
+    "name": "Sri Suki Pharma - Thiyagarajapuram",
+    "category": "Pharmacies",
+    "address": "Door No.7, Anna Salai, 1 & 7/2, Thiyagarajapuram Rd, Krishna Nagar, RV Nagar, Vellore, Tamil Nadu 632001, India",
+    "phone": "099407 26699",
+    "whatsappPhone": "09940726699",
+    "location": {
+      "lat": 12.9044327,
+      "lng": 79.1318622
+    },
+    "rating": 4,
+    "totalRatings": 24,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "http://www.srisukipharma.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJj88PKJU4rTsRvm7foIRhwU8",
+    "name": "Banu Medicals",
+    "category": "Pharmacies",
+    "address": "Shop No:75, 2, IDA Scudder Rd, opp. CMC Hospital, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+    "phone": "0416 222 5357",
+    "whatsappPhone": "04162225357",
+    "location": {
+      "lat": 12.9239597,
+      "lng": 79.1354832
+    },
+    "rating": 4.2,
+    "totalRatings": 27,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 6:00 AM – 12:00 AM",
+      "Tuesday: 6:00 AM – 12:00 AM",
+      "Wednesday: 6:00 AM – 12:00 AM",
+      "Thursday: 6:00 AM – 12:00 AM",
+      "Friday: 6:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 12:00 AM",
+      "Sunday: 6:00 AM – 12:00 AM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJvVlYGBU5rTsRj5CKY609LB8",
+    "name": "Jeevan Pharmacy",
+    "category": "Pharmacies",
+    "address": "No. 10, Arni Road, Oppsite CHAD Hospital,, Vellore, Arni Rd, Bagayam, Vellore, Tamil Nadu 632002, India",
+    "phone": "088257 58760",
+    "whatsappPhone": "08825758760",
+    "location": {
+      "lat": 12.8795833,
+      "lng": 79.1347076
+    },
+    "rating": 3,
+    "totalRatings": 24,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ0bUJ6WI4rTsR-IX1eotyFac",
+    "name": "Sri Suki Pharma - RTO Office",
+    "category": "Pharmacies",
+    "address": "Ground floor, No. 264/4, Regional Transport Office Rd, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "081110 80608",
+    "whatsappPhone": "08111080608",
+    "location": {
+      "lat": 12.9352504,
+      "lng": 79.1558232
+    },
+    "rating": 4.5,
+    "totalRatings": 11,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "https://srisukipharma.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ_VMzvcI5rTsRqT9Hbr-9cHI",
+    "name": "Sri Suki Pharma - Vallalar",
+    "category": "Pharmacies",
+    "address": "No. C10/7, South Serivce Road, Vallalar St, near SBI Bank, Phase 1, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "088700 04412",
+    "whatsappPhone": "08870004412",
+    "location": {
+      "lat": 12.9380764,
+      "lng": 79.1670005
+    },
+    "rating": 3.4,
+    "totalRatings": 10,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "http://www.srisukipharma.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJK6MnZbI5rTsRtv8dyvW0o1A",
+    "name": "Govt Medical shop(Jan Aushadhi, Generic Medicines, Central Government Medicines in Vellore)",
+    "category": "Pharmacies",
+    "address": "Jan Aushadi Kendra No. 31/5, Near Darling Residency,Officer's Line, Kosapet, Vellore, Tamil Nadu 632001, India",
+    "phone": "072006 55336",
+    "whatsappPhone": "07200655336",
+    "location": {
+      "lat": 12.9074047,
+      "lng": 79.13193740000001
+    },
+    "rating": 4.9,
+    "totalRatings": 37,
+    "types": [
+      "drugstore",
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJA492QAA5rTsRjGtyiChimlk",
+    "name": "Apollo Pharmacy Vellore Vallalar",
+    "category": "Pharmacies",
+    "address": "No, 240/5, 12th cross street, Vallalar St, Phase 1, Sathuvachari, Vellore, Tamil Nadu 632009, India",
+    "phone": "0416 299 7767",
+    "whatsappPhone": "04162997767",
+    "location": {
+      "lat": 12.937799,
+      "lng": 79.167084
+    },
+    "rating": 4,
+    "totalRatings": 6,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "https://www.apollopharmacy.in/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJB4HoS5M4rTsR9LLYNlTcn74",
+    "name": "Med On PHARMACY",
+    "category": "Pharmacies",
+    "address": "4, Kanar Mosque St, Sripuram, Saidapet, Vellore, Tamil Nadu 632012, India",
+    "phone": "095975 05778",
+    "whatsappPhone": "09597505778",
+    "location": {
+      "lat": 12.9236855,
+      "lng": 79.13905439999999
+    },
+    "rating": 2.3,
+    "totalRatings": 3,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 6:00 AM – 10:00 PM",
+      "Tuesday: 6:00 AM – 10:00 PM",
+      "Wednesday: 6:00 AM – 10:00 PM",
+      "Thursday: 6:00 AM – 10:00 PM",
+      "Friday: 6:00 AM – 10:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJz9JUdD85rTsRREzpkZjMTnQ",
+    "name": "Mitra Homoeo Pharmacy",
+    "category": "Pharmacies",
+    "address": "Vinayagapuram, Thorapadi, Vellore, Kanchipuram, Tamil Nadu 631502, India",
+    "phone": "077080 53123",
+    "whatsappPhone": "07708053123",
+    "location": {
+      "lat": 12.8936193,
+      "lng": 79.1268983
+    },
+    "rating": 0,
+    "totalRatings": 0,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": null,
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJaWjXwL8-rTsRfOqwVR0by_A",
+    "name": "Sri Sakthi Amma Pharmacy - Thirumalaikodi",
+    "category": "Pharmacies",
+    "address": "Sri, Narayani Peedam, Thirumalai Kodi, Thirumalaikodi, Vellore, Tamil Nadu 632055, India",
+    "phone": "099528 88960",
+    "whatsappPhone": "09952888960",
+    "location": {
+      "lat": 12.8695747,
+      "lng": 79.0871239
+    },
+    "rating": 4.3,
+    "totalRatings": 24,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "http://www.srisukipharma.com/",
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ18WH5qZHrTsRbGI6r630yLM",
+    "name": "Sri Hari Pharmacy",
+    "category": "Pharmacies",
+    "address": "Sri Hari Medical Center, 19/1, 6th St., Municipal Colony, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "099621 82776",
+    "whatsappPhone": "09962182776",
+    "location": {
+      "lat": 12.9485694,
+      "lng": 79.1382709
+    },
+    "rating": 1,
+    "totalRatings": 1,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": null,
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJGROPXWFHrTsRZsn8oH8G914",
+    "name": "Rajan Medicals Katpadi",
+    "category": "Pharmacies",
+    "address": "14th East Cross Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "094425 04510",
+    "whatsappPhone": "09442504510",
+    "location": {
+      "lat": 12.9502475,
+      "lng": 79.13742719999999
+    },
+    "rating": 2.4,
+    "totalRatings": 24,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 7:00 AM – 11:30 PM",
+      "Tuesday: 6:00 AM – 11:30 PM",
+      "Wednesday: 6:00 AM – 11:30 PM",
+      "Thursday: 6:00 AM – 11:30 PM",
+      "Friday: 6:00 AM – 11:30 PM",
+      "Saturday: 6:00 AM – 12:00 AM",
+      "Sunday: 6:00 AM – 11:30 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ290xTGY5rTsRMjF41Rdf3ws",
+    "name": "Dhaka Pharmacy Vellore",
+    "category": "Pharmacies",
+    "address": "216, Main Bazaar Rd, Sripuram, Saidapet, Vellore, Tamil Nadu 632004, India",
+    "phone": "096005 99236",
+    "whatsappPhone": "09600599236",
+    "location": {
+      "lat": 12.9221662,
+      "lng": 79.1369048
+    },
+    "rating": 4.7,
+    "totalRatings": 10,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": null,
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJOVnd5N85rTsRsEFnUP6jftg",
+    "name": "Bawa Smart Pharmacy & Surgicals",
+    "category": "Pharmacies",
+    "address": "11, Officer's Line, Srinivasan Nagar, Vellore, Tamil Nadu 632001, India",
+    "phone": "075500 80805",
+    "whatsappPhone": "07550080805",
+    "location": {
+      "lat": 12.9160109,
+      "lng": 79.13274919999999
+    },
+    "rating": 4.8,
+    "totalRatings": 50,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "https://www.bawasmartpharmacy.co.in/",
+    "openingHours": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 11:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJRRkcGTxHrTsRlFD8Aj9Drh4",
+    "name": "QNQ PHARMACY- VELLORE",
+    "category": "Pharmacies",
+    "address": "No 27 Ground Floor, Silk Mill, Bus Stop, Vellore - Chittoor Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "095006 85161",
+    "whatsappPhone": "09500685161",
+    "location": {
+      "lat": 12.9505383,
+      "lng": 79.1368784
+    },
+    "rating": 5,
+    "totalRatings": 67,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "https://qnqpharmacy.com/",
+    "openingHours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "pincode": "632001"
+  },
+  {
+    "id": "ChIJ4dHUyWE5rTsRI7dY6pphz1Y",
+    "name": "Al-Zaman Multi Cuisine Restaurant",
+    "category": "Restaurants",
+    "address": "Cmc OPD Gate, 73, Arcot Rd, opp. VELLORE, Beripettai, Vellore, Tamil Nadu 632004, India",
+    "whatsappPhone": null,
+    "location": {
+      "lat": 12.924009,
+      "lng": 79.1357359
+    },
+    "rating": 4.3,
+    "totalRatings": 41,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 7:00 AM – 10:30 PM",
+      "Tuesday: 7:00 AM – 10:30 PM",
+      "Wednesday: 7:00 AM – 10:30 PM",
+      "Thursday: 7:00 AM – 10:30 PM",
+      "Friday: 7:00 AM – 10:30 PM",
+      "Saturday: 7:00 AM – 10:30 PM",
+      "Sunday: 7:00 AM – 10:30 PM"
+    ],
+    "pincode": "632002"
+  },
+  {
+    "id": "ChIJWfVVRnw5rTsRNU6qJJ4VL0k",
+    "name": "FAMOUS COFFEE BAR",
+    "category": "Cafes",
+    "address": "W4FQ+R6X, IDA Scudder Rd, Sripuram, Saidapet, Vellore, Tamil Nadu 632004, India",
+    "phone": "099407 06143",
+    "whatsappPhone": "09940706143",
+    "location": {
+      "lat": 12.9246103,
+      "lng": 79.1380985
+    },
+    "rating": 5,
+    "totalRatings": 4,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "pincode": "632002"
+  },
+  {
+    "id": "ChIJyQ-BIUjLUjoR-kX-4zv5CWg",
+    "name": "Divine Cafe - Walajapet",
+    "category": "Cafes",
+    "address": "WC3F+28W, Bagaveli, Walajapet, Tamil Nadu 632513, India",
+    "whatsappPhone": null,
+    "location": {
+      "lat": 12.9025625,
+      "lng": 79.4233125
+    },
+    "rating": 4.5,
+    "totalRatings": 186,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://divinecafe.in/",
+    "openingHours": [
+      "Monday: 6:00 AM – 10:30 PM",
+      "Tuesday: 6:00 AM – 10:30 PM",
+      "Wednesday: 6:00 AM – 10:30 PM",
+      "Thursday: 6:00 AM – 10:30 PM",
+      "Friday: 6:00 AM – 10:30 PM",
+      "Saturday: 6:00 AM – 10:30 PM",
+      "Sunday: 6:00 AM – 10:30 PM"
+    ],
+    "pincode": "632002"
+  },
+  {
+    "id": "ChIJ0_CY8-c5rTsRfO1-pZEsIqI",
+    "name": "Divya Clinic",
+    "category": "Clinics",
+    "address": "No 1C, East Coast Road, Ezhil Nagar, Allapuram, Vellore, Tamil Nadu 632002, India",
+    "phone": "063796 62552",
+    "whatsappPhone": "06379662552",
+    "location": {
+      "lat": 12.894111,
+      "lng": 79.12705489999999
+    },
+    "rating": 5,
+    "totalRatings": 17,
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 5:00 – 9:00 PM",
+      "Tuesday: 5:00 – 9:00 PM",
+      "Wednesday: 5:00 – 9:00 PM",
+      "Thursday: 5:00 – 9:00 PM",
+      "Friday: 5:00 – 9:00 PM",
+      "Saturday: 5:00 – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "pincode": "632002"
+  },
+  {
+    "id": "ChIJdZ1NDvI5rTsROpePVrRDy0s",
+    "name": "Apollo Pharmacy Ezhil Nagar Vellore",
+    "category": "Pharmacies",
+    "address": "Ground Floor, Selvam Towers, No. 12, Ezhil Nagar Rd, opp. Indian Oil, Ramset Nagar, Thorapadi, Vellore, Tamil Nadu 632002, India",
+    "phone": "079 4747 9133",
+    "whatsappPhone": "07947479133",
+    "location": {
+      "lat": 12.8937201,
+      "lng": 79.1264374
+    },
+    "rating": 3.9,
+    "totalRatings": 8,
+    "types": [
+      "drugstore",
+      "establishment",
+      "food",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": "https://www.apollopharmacy.in/?utm_source=gmb&utm_medium=organic&utm_campaign=sulekhapromanage-apollo-pharmacy",
+    "openingHours": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 11:00 PM"
+    ],
+    "pincode": "632002"
+  },
+  {
+    "id": "ChIJa3ZIKJU4rTsRBcegPCd4dGg",
+    "name": "bawaa Pharmacy",
+    "category": "Pharmacies",
+    "address": "82, IDA Scudder Rd, Arcot Rd, Beripettai, Vellore, Tamil Nadu 632004, India",
+    "phone": "0416 450 0044",
+    "whatsappPhone": "04164500044",
+    "location": {
+      "lat": 12.9238959,
+      "lng": 79.13498849999999
+    },
+    "rating": 4.3,
+    "totalRatings": 22,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 6:30 AM – 11:30 PM",
+      "Tuesday: 6:30 AM – 11:30 PM",
+      "Wednesday: 6:30 AM – 11:30 PM",
+      "Thursday: 6:30 AM – 11:30 PM",
+      "Friday: 6:30 AM – 11:30 PM",
+      "Saturday: 6:30 AM – 11:30 PM",
+      "Sunday: 8:30 AM – 10:30 PM"
+    ],
+    "pincode": "632002"
+  },
+  {
+    "id": "ChIJk0CjGJ1HrTsRy_THrhwU-cI",
+    "name": "Signature by Darling",
+    "category": "Restaurants",
+    "address": "Katpadi - Vellore Rd, Suthanthira Ponvizha Nagar, Bharathi Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006, India",
+    "phone": "097874 07777",
+    "whatsappPhone": "09787407777",
+    "location": {
+      "lat": 12.9510732,
+      "lng": 79.1368964
+    },
+    "rating": 4.6,
+    "totalRatings": 1431,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": "https://signaturebydarling.com/",
+    "openingHours": [
+      "Monday: 11:30 AM – 3:30 PM, 6:30 – 10:30 PM",
+      "Tuesday: 11:30 AM – 3:30 PM, 6:30 – 10:30 PM",
+      "Wednesday: 11:30 AM – 3:30 PM, 6:30 – 10:30 PM",
+      "Thursday: 11:30 AM – 3:30 PM, 6:30 – 10:30 PM",
+      "Friday: 11:30 AM – 3:30 PM, 6:30 – 10:30 PM",
+      "Saturday: 11:30 AM – 3:30 PM, 6:30 – 10:30 PM",
+      "Sunday: 11:30 AM – 3:30 PM, 6:30 – 10:30 PM"
+    ],
+    "pincode": "632003"
+  },
+  {
+    "id": "ChIJq6qqqsY3rTsROiOPoVXbwEk",
+    "name": "Alankar Veg Restaurant",
+    "category": "Restaurants",
+    "address": "1/220, Chennai Bangalore Highway, Post Walaja, And, Nandiyalam, Ratnagiri Kilminnal, Tamil Nadu 632517, India",
+    "phone": "099444 46344",
+    "whatsappPhone": "09944446344",
+    "location": {
+      "lat": 12.9369803,
+      "lng": 79.24964489999999
+    },
+    "rating": 4.5,
+    "totalRatings": 12651,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 6:00 AM – 3:30 PM, 5:30 – 10:00 PM",
+      "Tuesday: 6:00 AM – 3:30 PM, 5:30 – 10:00 PM",
+      "Wednesday: 6:00 AM – 3:30 PM, 5:30 – 10:00 PM",
+      "Thursday: 6:00 AM – 3:30 PM, 5:30 – 10:00 PM",
+      "Friday: 6:00 AM – 3:30 PM, 5:30 – 10:00 PM",
+      "Saturday: 6:00 AM – 3:30 PM, 5:30 – 10:00 PM",
+      "Sunday: 6:00 AM – 3:30 PM, 5:30 – 10:00 PM"
+    ],
+    "pincode": "632003"
+  },
+  {
+    "id": "ChIJFRcCnr5HrTsRwL5Ik3M46A4",
+    "name": "Vikram's coffee house",
+    "category": "Cafes",
+    "address": "VIT Rd, Vaibhav Nagar, Katpadi, Vellore, Tamil Nadu 632014, India",
+    "whatsappPhone": null,
+    "location": {
+      "lat": 12.9678661,
+      "lng": 79.1527687
+    },
+    "rating": 4.8,
+    "totalRatings": 19,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 4:00 AM – 11:00 PM",
+      "Tuesday: 4:00 AM – 11:00 PM",
+      "Wednesday: 4:00 AM – 11:00 PM",
+      "Thursday: 4:00 AM – 11:00 PM",
+      "Friday: 4:00 AM – 11:00 PM",
+      "Saturday: 4:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 11:00 PM"
+    ],
+    "pincode": "632003"
+  },
+  {
+    "id": "ChIJVxZdtuhHrTsR64XvhyuQdVw",
+    "name": "Vellore Karupatti coffee",
+    "category": "Cafes",
+    "address": "24, 8th East Main Rd, Suthanthira Ponvizha Nagar, Gandhi nagar, katpadi, Vellore, Tamil Nadu 632006, India",
+    "phone": "080563 81985",
+    "whatsappPhone": "08056381985",
+    "location": {
+      "lat": 12.9508308,
+      "lng": 79.1415524
+    },
+    "rating": 4.7,
+    "totalRatings": 23,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 5:00 AM – 10:00 PM",
+      "Tuesday: 5:00 AM – 10:00 PM",
+      "Wednesday: 5:00 AM – 10:00 PM",
+      "Thursday: 5:00 AM – 10:00 PM",
+      "Friday: 5:00 AM – 10:00 PM",
+      "Saturday: 5:00 AM – 10:00 PM",
+      "Sunday: 5:00 AM – 10:00 PM"
+    ],
+    "pincode": "632003"
+  },
+  {
+    "id": "ChIJT1ZPTmtHrTsRRPuS4oUv5m8",
+    "name": "Kayes Pharamacy",
+    "category": "Pharmacies",
+    "address": "#148-A, Vellore Road, SH 9, Katpadi, Vellore, Tamil Nadu 632007, India",
+    "phone": "0416 224 4222",
+    "whatsappPhone": "04162244222",
+    "location": {
+      "lat": 12.9682025,
+      "lng": 79.1371018
+    },
+    "rating": 4.1,
+    "totalRatings": 25,
+    "types": [
+      "establishment",
+      "health",
+      "pharmacy",
+      "point_of_interest",
+      "store"
+    ],
+    "website": null,
+    "openingHours": [
+      "Monday: 6:00 AM – 11:00 PM",
+      "Tuesday: 6:00 AM – 11:00 PM",
+      "Wednesday: 6:00 AM – 11:00 PM",
+      "Thursday: 6:00 AM – 11:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 6:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 11:00 PM"
+    ],
+    "pincode": "632003"
+  }
+]

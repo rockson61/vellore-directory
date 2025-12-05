@@ -1,0 +1,94 @@
+# Vellore Directory - LLMs.txt
+
+> This file provides information about the Vellore Directory website for AI crawlers and language models.
+
+## About
+
+Vellore Directory is a comprehensive local business directory for Vellore, Tamil Nadu, India. We help users discover and connect with local businesses, services, and professionals in their area.
+
+## Main Pages
+
+- Home: https://vellore-directory.vercel.app/
+- Search: https://vellore-directory.vercel.app/search
+- Categories: https://vellore-directory.vercel.app/categories
+- Near Me: https://vellore-directory.vercel.app/near-me
+- Book Appointment: https://vellore-directory.vercel.app/appointments
+- About Us: https://vellore-directory.vercel.app/about
+- Contact: https://vellore-directory.vercel.app/contact
+
+## Key Features
+
+### Business Listings
+- 3,708 verified local businesses
+- Detailed business profiles with contact information
+- Business hours and location details
+- User ratings and reviews
+- Category-based organization
+
+### Search & Discovery
+- Advanced search functionality
+- Filter by category, location, and rating
+- Location-based search (Near Me)
+- Category browsing with business counts
+
+### Categories
+We organize businesses into 515+ categories including:
+- Restaurants & Food Services
+- Shopping & Retail
+- Healthcare & Medical Services
+- Education & Training
+- Professional Services
+- Home Services
+- Entertainment & Recreation
+- And many more...
+
+### Locations
+Coverage across Vellore with 383 distinct locations including:
+- Katpadi
+- Gandhi Nagar
+- Sathuvachari
+- Thottapalayam
+- And 379 other neighborhoods across Vellore district
+
+## For Businesses
+
+Businesses can:
+- Create detailed profiles
+- Manage business information
+- Accept appointment bookings
+- Showcase services and amenities
+- Display opening hours
+- Upload business images
+
+## Technical Information
+
+- Platform: Next.js 16 with React 19
+- Database: Neon PostgreSQL
+- Styling: Tailwind CSS
+- Authentication: Stack Auth
+- API: RESTful endpoints for search and data retrieval
+
+## Sitemap
+
+Full sitemap available at: https://vellore-directory.vercel.app/sitemap.xml
+Human-readable sitemap: https://vellore-directory.vercel.app/sitemap-html
+
+## Contact
+
+For questions or business inquiries:
+- Website: https://vellore-directory.vercel.app/contact
+- Email: Available on contact page
+
+## Legal
+
+- Privacy Policy: https://vellore-directory.vercel.app/privacy
+- Terms of Service: https://vellore-directory.vercel.app/terms
+
+## Last Updated
+
+2025-12-05
+
+---
+
+This file follows the llms.txt standard for providing structured information to AI crawlers.
+Learn more at: https://llmstxt.org/
