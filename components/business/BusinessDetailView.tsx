@@ -35,7 +35,7 @@ export default function BusinessDetailView({ business: b, amenities, hours, serv
             addressCountry: 'IN'
         },
         telephone: b.phone,
-        url: `https://velloredirectory.com/business/${b.slug}`,
+        url: `https://top.vellore24.com/business/${b.slug}`,
         priceRange: '₹₹'
     };
 
@@ -44,7 +44,7 @@ export default function BusinessDetailView({ business: b, amenities, hours, serv
     const isOpen = openingHours?.open_now || false;
     const statusText = isOpen ? 'Open Now' : 'Closed';
 
-    const currentUrl = `https://velloredirectory.com/business/${b.slug}`;
+    const currentUrl = `https://top.vellore24.com/business/${b.slug}`;
 
     return (
         <div className="min-h-screen bg-gray-50 pb-20">

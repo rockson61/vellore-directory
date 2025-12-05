@@ -4,7 +4,7 @@ import { categoryHierarchy, businesses, locations } from '@/lib/schema';
 import { eq, sql, isNull } from 'drizzle-orm';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-    const baseUrl = 'https://vellore-directory.vercel.app';
+    const baseUrl = 'https://top.vellore24.com';
 
     // Static pages
     const staticPages: MetadataRoute.Sitemap = [
